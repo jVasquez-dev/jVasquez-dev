@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jVasquez-dev/jVasquez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -25,6 +22,11 @@ const aboutMe = {
    challenge: "I'm working towards being able to run a marathon.",
 };
 ```
+
+<!--
+**jVasquez-dev/jVasquez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
