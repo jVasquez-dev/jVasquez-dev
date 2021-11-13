@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Node.js**
 
-- 👨‍💻 Check out my portfolio at [link](https://jvasquezdev.netlify.app/)
+- 👨‍💻 Check out my portfolio at [portfolio](https://jvasquezdev.netlify.app/)
 
 - 📫 How to reach me **jvasquezn04@gmail.com**
 
